@@ -7,3 +7,7 @@ function cookieHi(){
     document.getElementById("cookie").style.display = "block";
     document.getElementById("cookieText").style.display = "none";
 }
+
+function submit(){
+    alert("Form submitted");
+}
